@@ -19,9 +19,9 @@ body{
 	background: gray;
 	border-radius: 8px;
 	box-shadow: inset 5px 5px 5px rgba(0,0,0,0.2),
-	 inset -5px -5px 15px rgba(255,255,255,0.1),
-	 5px 5px 15px rgba(0,0,0,0.3),
-	 -5px -5px 15px rgba(255,255,255,0.1);
+	inset -5px -5px 15px rgba(255,255,255,0.1),
+	5px 5px 15px rgba(0,0,0,0.3),
+	-5px -5px 15px rgba(255,255,255,0.1);
 }
 .main button{
 	padding: 10px 12px;
@@ -143,9 +143,9 @@ input[type="range"]::-webkit-slider-thumb{
 	transition: 0.5s;
 	background: black;
 	box-shadow: inset 5px 5px 5px rgba(0,0,0,0.2),
-	 inset -5px -5px 15px rgba(255,255,255,0.1),
-	 5px 5px 15px rgba(0,0,0,0.3),
-	 -5px -5px 10px rgba(255,255,255,0.1);
+	inset -5px -5px 15px rgba(255,255,255,0.1),
+	5px 5px 15px rgba(0,0,0,0.3),
+	-5px -5px 10px rgba(255,255,255,0.1);
 }
 .song_detail{
 	position: relative;
